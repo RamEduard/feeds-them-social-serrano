@@ -1,0 +1,15 @@
+.twitter-custom {
+	background-color: #02c8ef;
+	padding-bottom: 15px;
+	padding-top: 5px;
+}
+
+.twitter-custom span {
+	color: white;
+}
+
+.twitter-custom h4 {
+	color: white;
+	padding-top: 10px;
+	padding-right: 10px;
+}

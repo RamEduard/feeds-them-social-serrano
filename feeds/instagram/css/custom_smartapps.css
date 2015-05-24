@@ -1,0 +1,20 @@
+.instagram-custom {
+	background-color: #59301E;
+	padding-bottom: 15px;
+	padding-top: 5px;
+}
+
+.instagram-custom span {
+	color: white;
+}
+
+.instagram-custom h4 {
+	color: white;
+	padding-top: 10px;
+	padding-left: 10px;
+}
+
+.fts-slicker-instagram {
+	background-color: #EBEBEB;
+	width: 100% !important;
+}

@@ -1,0 +1,19 @@
+.fb-like-box {
+	background-color: white;
+}
+
+.facebook-custom {
+	background-color: #063c7c;
+	padding-bottom: 1.5em;
+	padding-top: 5px;
+}
+
+.facebook-custom span {
+	color: white;
+}
+
+.facebook-custom h4 {
+	color: white;
+	padding-top: 10px;
+	padding-right: 10px;
+}
